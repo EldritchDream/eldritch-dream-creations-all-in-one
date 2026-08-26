@@ -15,25 +15,14 @@ There are three compendiums, each starts with "EDC"
 * New creatures:
     * Razor Bat
     * Frostfang Razor Bat
+* More tokens bundled in with the creatures.
+
 
 ### NEW GITHUB LINK
 
 From now on the following link can be pasted into the foundry Installation screen and updates should apply automatically when you update all!
 
 https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
-
-### Archetype
-* Trapcaller Archetype (Includes a Journal, several feats, and related spells)
-
-### Spells
-* Call Trap (Focus) (With variants based on what feats you have for Trapcaller)
-* Summon Snare
-
-### Items
-* Deck of Traps
-* Contingency Cards
-* Deceiver's Marquise (spellheart)
-* More tokens bundled in with the creatures.
 
 ---
 
