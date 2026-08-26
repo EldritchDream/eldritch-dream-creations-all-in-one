@@ -1,0 +1,106 @@
+{
+  "id": "eldritch-dream-creations-all-in-one",
+  "title": "Eldritch Dream Creations All In One",
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "description": "<p>A collection of the free content found on the Eldritch Dream Creations patreon.</p>",
+  "authors": [
+    {
+      "name": "Shawn \"Eldritch Dream\" Pommier",
+      "email": "https://www.twitch.tv/an_eldritch_dream_games",
+      "url": "https://ko-fi.com/eldritchdream",
+      "discord": "https://www.patreon.com/c/EldritchDreamCreations",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/c/EldritchDreamCreations",
+  "packs": [
+    {
+      "name": "edc-actors",
+      "label": "EDC [Actors] Eldritch Dream Creations",
+      "path": "packs/edc-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "edc-items",
+      "label": "EDC [Items] Eldritch Dream Creations",
+      "path": "packs/edc-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+	},
+		   
+    {
+      "name": "edc-journals",
+      "label": "EDC [journals] Eldritch Dream Creations",
+      "path": "packs/edc-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+	}
+  ],
+   "flags": {
+        "eldritch-dream-creations-all-in-one": {
+            "pf2e-homebrew": {
+                "weaponCategories": {
+                    "regalia": "Regalia"
+                },
+				"weaponGroups": {
+					"regalia": "Regalia"
+				},
+                "weaponTraits": {
+                    "regalia": {
+                        "description": "Items with the regalia trait function similarly to specific magic weapons with a few exceptions. Regalia can be etched with weapon potency and striking runes which affect their Strike activations as though they were weapon attacks. A regalia’s Strike activation can be used any time you could Strike normally, uses your spell attack modifier proficiency instead of a proficiency in a particular type of weapon, counts as both a Strike and a spell attack when triggering reactions, and may have additional listed traits and effects in their entry. Unless otherwise stated, no attribute modifiers are added to damage from a regalia’s Strikes, though they still benefit from bonuses to damage that normally affect weapon attacks—such as weapon specialization.",
+                        "label": "Regalia"
+					},
+					"charged": {
+                        "description": "Actions and activities with the charged trait require the item, creature, hazard, or other source associated with them to be charged. Unless otherwise stated, charging such a source can be done as an action with the manipulate and concentrate traits, though some abilities and activations may also charge the source. If an action or ability specifies that a charged source becomes “discharged” its charge is depleted and must be charged again before actions and activities with the charged trait can be performed.",
+                        "label": "Charged"
+					}
+				},
+				"creatureTraits": {
+					"puppet": {
+						"description": "Puppets are a class of construct that are susceptible to spirit damage, usually weak to electricity, and speak a condensed, rare language called Puppeten. Puppets almost invariably follow the following four edicts with perfect adherence, in order of importance: all puppets must obey their creator’s commands, a puppet may not harm a sentient mortal, a puppet must protect and serve sentient mortals and the city of Krat, and a puppet cannot lie. Puppets can go into a frenzy that makes them ignore the first three edicts and become incredibly violent. They often have abilities that can only be used while they are frenzied, which will have the frenzied trait. Frenzy which is a narrative state, not a condition. It is almost impossible to un-frenzy a puppet, once they have begun, they can only be destroyed to stop them. Rare and unique puppets exist that naturally ignore one or more of the edicts, and may not be able to be frenzied.",
+                        "label": "Puppet"
+					},
+										"carcass": {
+						"description": "Carcasses may resemble the undead in some ways, but they have simply warped into something who’s flesh does not obey the simpler laws of life or biology. Carcasses can propagate a type of infectious decay called Carcass Rot which themselves and other carcasses are immune to.",
+                        "label": "Carcass"
+					}
+				},
+				"featTraits": {
+					"frenzy": {
+						"description": "Puppets can go into a frenzy that makes them ignore the first three edicts and become incredibly violent. They often have abilities that can only be used while they are frenzied, which will have the frenzy trait. Frenzy which is a narrative state, not a condition. It is almost impossible to un-frenzy a puppet, once they have begun, they can only be destroyed to stop them.",
+                        "label": "Frenzy"
+					},
+					"trap-trapcaller": {
+						"description": "A specific trap trait for labelling certain feats of the Trapcaller Archetype",
+                        "label": "Trap (Trapcaller)"
+					}
+				},
+				"languages": {
+					"puppeten": {
+						"label": "Puppeten"
+					}
+				}
+            }
+        }
+    }
+}
