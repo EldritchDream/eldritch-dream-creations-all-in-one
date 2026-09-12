@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of 8/26/2026 
+# Updated as of 9/12/2026 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,11 +10,11 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (8/26/2026)
+# Whats New (9/12/2026)
 
 * New creatures:
-    * Razor Bat
-    * Frostfang Razor Bat
+    * Lorelai (technically part of last update but i forgot it in the update listing
+	* Death Mask
 * More tokens bundled in with the creatures.
 
 
