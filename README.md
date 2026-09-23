@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of 9/14/2026 
+# Updated as of 9/23/2026 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,11 +10,13 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (9/14/2026)
+# Whats New (9/23/2026)
 
-* New creatures:
-    * Sniper of Goth
-* More tokens bundled in with the creatures.
+* New Archetype:
+    * Creaturesmith
+	    *Includes a journal
+		*includes a related Ritual: Forge Creature
+* fixes to broken portrait images in creature folder. 
 
 
 ### NEW GITHUB LINK
@@ -158,6 +160,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Undead Standard Immunities (a simple drag and drop for adding the most common array of undead immunities to a creature or character.)
 
 ### Archetypes
+* Creaturesmith Archetype
 * Thorned Vine Deceiver Archetype
 * Trapcaller Archetype
 * Unearthly Contortionist Archetype
@@ -202,6 +205,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 
 ### Spells
 * Call Trap (Focus)
+* Forge Creature (Ritual)
 * Memory of Osiris (incarnate)
 * Summon Nullfiend (incarnate)
 * Summon Snare
