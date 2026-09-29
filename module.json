@@ -2,10 +2,10 @@
   "id": "eldritch-dream-creations-all-in-one",
   "title": "Eldritch Dream Creations All In One",
   "description": "A collection of the free content found on the Eldritch Dream Creations patreon.",
-    "version": "1.1.23",
+  "version": "1.1.25",
   "compatibility": {
     "minimum": "12",
-    "verified": "14"
+    "verified": "14.368"
   },
   "authors": [
     {

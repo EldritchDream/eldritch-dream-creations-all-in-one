@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of 9/23/2026 
+# Updated as of 9/29/2026 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,13 +10,12 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (9/23/2026)
+# Whats New (9/29/2026)
 
-* New Archetype:
-    * Creaturesmith
-	    *Includes a journal
-		*includes a related Ritual: Forge Creature
-* fixes to broken portrait images in creature folder. 
+* New Creature:
+    * Ruler Sword
+	    *Includes a custome longsword in its creature block
+* Additional Creature Tokens added. 
 
 
 ### NEW GITHUB LINK
@@ -115,6 +114,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Puwexil Lordskull
 * Razor Bat
 * Ruined Industrial Puppet
+* Ruler Sword
 * Sanguine Doe, The
 * Servant Puppet
 * Skeleton Frisky
