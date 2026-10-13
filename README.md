@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of 9/29/2026 
+# Updated as of 10/13/2026 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,13 +10,16 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (9/29/2026)
+# Whats New (10/13/2026)
 
 * New Creature:
-    * Ruler Sword
-	    *Includes a custome longsword in its creature block
+    * Gnuriu
+	    *Includes Consumable (Rhubarb Syrup) that it is weak to
 * Additional Creature Tokens added. 
-
+* New Items:
+    * Grafts
+        * Emergency Atrium (lesser, greater, major)
+        * Olfactory Filter (lesser, greater, major)
 
 ### NEW GITHUB LINK
 
@@ -85,6 +88,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Galamoth
 * Gergoth
 * Gigachat
+* Gnuriu
 * Gonghead
 * Gravedorcus
 * Guillotiner
@@ -167,6 +171,13 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 
 ### Armor
 * Spiked Armor (Blood Grinder Knight)
+
+### Equipment (Consumables)
+* Rhubarb Syrup (specific weakness of Gnuriu)
+
+### Equipment (Grafts)
+* Emergency Atrium (lesser, greater, major)
+* Olfactory Filter (lesser, greater, major)
 
 ### Equipment (Worn / Held)
 * Contingency Cards
