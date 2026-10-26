@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of 10/13/2026 
+# Updated as of 10/26/2026 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,16 +10,17 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (10/13/2026)
+# Whats New (10/26/2026)
 
 * New Creature:
-    * Gnuriu
-	    *Includes Consumable (Rhubarb Syrup) that it is weak to
+    * Joan, Immolator Guardian
+	    *She's set up to be a boss fight, so give her a good read!
 * Additional Creature Tokens added. 
-* New Items:
-    * Grafts
-        * Emergency Atrium (lesser, greater, major)
-        * Olfactory Filter (lesser, greater, major)
+* New Hazard:
+    * Razing Room (lair)
+	    * Associated with Joan but can be used on its own. 
+* Updates
+    *Fixed trap deck (greater) to properly note it holds snares of up to 5th rank instead of 1st
 
 ### NEW GITHUB LINK
 
@@ -96,6 +97,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Industrial Puppet
 * Intelligent Axe Armor
 * Intelligent Bomber Armor
+* Joan. Immolator Guardian
 * Legion
 * Lerajie
 * Mad Donkey

@@ -2,7 +2,7 @@
   "id": "eldritch-dream-creations-all-in-one",
   "title": "Eldritch Dream Creations All In One",
   "description": "A collection of the free content found on the Eldritch Dream Creations patreon.",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "compatibility": {
     "minimum": "12",
     "verified": "14.368"
@@ -12,7 +12,7 @@
       "name": "Shawn \"Eldritch Dream\" Pommier",
       "email": "https://www.twitch.tv/an_eldritch_dream_games",
       "url": "https://ko-fi.com/eldritchdream",
-      "discord": "https://www.patreon.com/c/EldritchDreamCreations"
+      "Patreon": "https://www.patreon.com/c/EldritchDreamCreations"
     }
   ],
   "manifest": "https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json",
@@ -80,6 +80,10 @@
 						"description": "Puppets are a class of construct that are susceptible to spirit damage, usually weak to electricity, and speak a condensed, rare language called Puppeten. Puppets almost invariably follow the following four edicts with perfect adherence, in order of importance: all puppets must obey their creator’s commands, a puppet may not harm a sentient mortal, a puppet must protect and serve sentient mortals and the city of Krat, and a puppet cannot lie. Puppets can go into a frenzy that makes them ignore the first three edicts and become incredibly violent. They often have abilities that can only be used while they are frenzied, which will have the frenzied trait. Frenzy which is a narrative state, not a condition. It is almost impossible to un-frenzy a puppet, once they have begun, they can only be destroyed to stop them. Rare and unique puppets exist that naturally ignore one or more of the edicts, and may not be able to be frenzied.",
                         "label": "Puppet"
 					},
+					"lair": {
+						"description": "A hazard with the Lair trait is tied to a creature, although this is usually a specific unique creature it is sometimes bound to a generic type of creature. Unlike most hazards, these are designed to work in tandem with the creature they are tied to. A lair hazard will specify what creatures can utilize it. An action with the lair trait can only be used if the associated creature spends the listed actions while adjacent to—or inside of—the area of the lair hazard, causing the lair to perform that action immediately unless otherwise specified. Hazards with this trait do not roll for their initiative, instead they perform any routines at the end of the round. If a hazard with the lair trait has more than one action it can choose, it can only perform one of them on its turn and may never use the same action twice in a row.",
+                        "label": "Lair"
+					},
 										"carcass": {
 						"description": "Carcasses may resemble the undead in some ways, but they have simply warped into something who’s flesh does not obey the simpler laws of life or biology. Carcasses can propagate a type of infectious decay called Carcass Rot which themselves and other carcasses are immune to.",
                         "label": "Carcass"
@@ -89,6 +93,10 @@
 					"frenzy": {
 						"description": "Puppets can go into a frenzy that makes them ignore the first three edicts and become incredibly violent. They often have abilities that can only be used while they are frenzied, which will have the frenzy trait. Frenzy which is a narrative state, not a condition. It is almost impossible to un-frenzy a puppet, once they have begun, they can only be destroyed to stop them.",
                         "label": "Frenzy"
+					},
+					"lair": {
+						"description": "A hazard with the Lair trait is tied to a creature, although this is usually a specific unique creature it is sometimes bound to a generic type of creature. Unlike most hazards, these are designed to work in tandem with the creature they are tied to. A lair hazard will specify what creatures can utilize it. An action with the lair trait can only be used if the associated creature spends the listed actions while adjacent to—or inside of—the area of the lair hazard, causing the lair to perform that action immediately unless otherwise specified. Hazards with this trait do not roll for their initiative, instead they perform any routines at the end of the round. If a hazard with the lair trait has more than one action it can choose, it can only perform one of them on its turn and may never use the same action twice in a row.",
+                        "label": "Lair"
 					},
 					"trap-trapcaller": {
 						"description": "A specific trap trait for labelling certain feats of the Trapcaller Archetype",
