@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of 10/26/2026 
+# Updated as of (11/9/2026) 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,17 +10,17 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (10/26/2026)
+# Whats New (11/9/2026)
 
-* New Creature:
-    * Joan, Immolator Guardian
-	    *She's set up to be a boss fight, so give her a good read!
-* Additional Creature Tokens added. 
+* New placeholder "Creatures":
+    * Thrall (Phantasmal Coffin Thrall)
+	* Mote of Pain (a placeholder for Razing Room's Mote of Pain)
 * New Hazard:
-    * Razing Room (lair)
-	    * Associated with Joan but can be used on its own. 
+    * Phantasmal Coffin (lair)
 * Updates
-    *Fixed trap deck (greater) to properly note it holds snares of up to 5th rank instead of 1st
+    *Minor updates to Razing Room layout and data input
+	*Added Hazard Folders to the Actor list to sort them better
+	*Made a placeholders folder for sorting specialty token placeholders, including for incarnate spells.
 
 ### NEW GITHUB LINK
 
@@ -151,9 +151,13 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Bone Pillar (cold)
 * Bone Pillar (fire)
 * Fishheads
+* Phantasmal Coffin
+* Razing Room
 
-### Incarnate Bodies (Alphabetical)
-* Nullfiend
+### Placeholder Tokens (Alphabetical)
+* Mote of Pain (Razing Room)
+* Nullfiend (incarnate spell)
+* Thrall (Phantasmal Coffin)
 
 ---
 
