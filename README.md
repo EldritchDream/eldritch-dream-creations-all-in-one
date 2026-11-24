@@ -1,6 +1,6 @@
 You can find the original post for this, 100% free along with the contained creatures and more on my patreon: https://www.patreon.com/EldritchDreamCreations/posts/eldritch-dreams-131325622?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-# Updated as of (11/9/2026) 
+# Updated as of (11/24/2026) 
 You can now directly install to Foundry without needing to download files here. Paste the following into the installation link bar in the foundry module installation window: https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/latest/download/module.json
 
 There are three compendiums, each starts with "EDC"
@@ -10,17 +10,20 @@ There are three compendiums, each starts with "EDC"
 
 
 
-# Whats New (11/9/2026)
+# Whats New (11/24/2026)
 
-* New placeholder "Creatures":
-    * Thrall (Phantasmal Coffin Thrall)
-	* Mote of Pain (a placeholder for Razing Room's Mote of Pain)
-* New Hazard:
-    * Phantasmal Coffin (lair)
-* Updates
-    *Minor updates to Razing Room layout and data input
-	*Added Hazard Folders to the Actor list to sort them better
-	*Made a placeholders folder for sorting specialty token placeholders, including for incarnate spells.
+* New Creatures:
+    * Charmander (levels -1, 1, 2, 3)
+	* Mortality in Ink
+	* Polkir
+	* Tongue Twister
+	* Voxel Rat
+* New Items:
+    * Interspecies Interest Identifier (3 variants)
+	* Obsidian Ritual Knife (SCP-0034)
+	* Red Queen (weapon)
+	* Spooky Armor
+	* Water Candle (5 variations)
 
 ### NEW GITHUB LINK
 
@@ -58,6 +61,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Buster Armor
 * Butler / Head Maid Puppet
 * Cagnazzo
+* Charmander (levels -1, 1, 2, 3)
 * Chillizard
 * Chosen Une
 * Corner Guard
@@ -101,6 +105,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Legion
 * Lerajie
 * Mad Donkey
+* Mortality in Ink
 * Nascent Carcass
     * 5th Level Headless Nascent Carcass (gains Grab)
     * 5th Level Headless Nascent Carcass (gains Through The Earth)
@@ -116,6 +121,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Persephone
 * Plate Lord
 * Police Puppet
+* Polkir
 * Puwexil
 * Puwexil Lordskull
 * Razor Bat
@@ -134,12 +140,14 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Stone Rose
 * Strongarm Puppet
 * Thunderstruck Dhuron
+* Tongue Twister
 * Tin Man
 * True Undertaker's Manifest
 * Ukoback
 * Venus Weed
 * Void Crawler
 * Void Eye
+* Voxel Rat
 * Wakwak Tree
 * Winged Guard
 * Winged Guard (longbow)
@@ -177,6 +185,7 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 
 ### Armor
 * Spiked Armor (Blood Grinder Knight)
+* Spooky Armor
 
 ### Equipment (Consumables)
 * Rhubarb Syrup (specific weakness of Gnuriu)
@@ -189,8 +198,10 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 * Contingency Cards
 * Deceiver's Marquise (spellheart)
 * Deck of Traps
+* Interspecies Interest Identifier (3 variants)
 * Sparbreaker Gloves
 * Sparbreaker Wraps
+* Water Candle (5 variations)
 
 ### Spellbound Regalia (Weapon Category)
 * Argent Seer
@@ -229,7 +240,9 @@ https://github.com/EldritchDream/eldritch-dream-creations-all-in-one/releases/la
 
 ### Weapons
 * Monad's Rose Sword
+* Obsidian Ritual Knife (SCP-0034)
 * Pale Knight
+* Red Queen (weapon)
 * Spiral Sword
 
 ---
